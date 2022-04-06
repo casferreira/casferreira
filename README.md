@@ -1,4 +1,4 @@
-## Olá! Me chamo Carina Ferreira.
+##  Olá! Me chamo Carina Ferreira.
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas;
 - 🎓 Formada em DEV Full Stack;
